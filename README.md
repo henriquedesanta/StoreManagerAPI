@@ -1,2 +1,2 @@
 # StoreManagerAPI
-### API to control a clothes store.
+#### API to control a clothes store.
